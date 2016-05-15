@@ -1,2 +1,5 @@
 # Huawei_nlpRobot
 华为杯作品 聊天机器人 LDA word2vec jieba 正则与编码相关问题解决
+详细使用方式可以读另一个readme
+解决了许多python编码和中文模型的问题
+这个版本还没有上传word2vec训练出来的模型
